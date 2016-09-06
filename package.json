@@ -1,6 +1,6 @@
 {
   "name": "nodejs-slack-lunch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple parse website of restaurant and push menu of lunch to the Slack.",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jakubkrizka/nodejs-slack-lunch.git"
+    "url": "https://github.com/davidfoltyn/slack-parse-lunch-menu-nodejs.git"
   },
-  "author": "Jakub Křižka",
+  "author": "David Foltyn",
   "license": "MIT",
   "dependencies": {
     "request": "latest",

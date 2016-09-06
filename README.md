@@ -14,5 +14,5 @@ Simple parse website of restaurant and push menu of lunch to the Slack.
 * You need NodeJS and NPM - [Linux](http://wiki.jakubkrizka.cz/doku.php?id=unixlinux:linux:nodejs) & Mac OS: `brew install node`
 * Clone project
 * `npm install`
-* `node .` or `node index`
+* `node .` or `node index` with parameter --restaurant and --url
 * you can test project: `curl -X POST http://localhost:3000/racek`

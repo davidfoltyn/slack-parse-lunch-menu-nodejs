@@ -1,4 +1,4 @@
-55 10 * * 1,2,3,4,5 node /home/ubuntu/slack/index --restaurant=racek --url="https://hooks.slack.com/services/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" 2>&1 >> /home/ubuntu/slack/index.log 
-55 10 * * 1,2,3,4,5 node /home/ubuntu/slack/index --restaurant=cestovatele --url="https://hooks.slack.com/services/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" 2>&1 >> /home/ubuntu/slack/index.log 
-55 10 * * 1,2,3,4,5 node /home/ubuntu/slack/index --restaurant=padthai --url="https://hooks.slack.com/services/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" 2>&1 >> /home/ubuntu/slack/index.log
-55 10 * * 1,2,3,4,5 node /home/ubuntu/slack/index --restaurant=ocean --url="https://hooks.slack.com/services/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" 2>&1 >> /home/ubuntu/slack/index.log
+55 10 * * 1,2,3,4,5 node index --restaurant=racek --url="https://hooks.slack.com/services/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" 2>&1 >> index.log
+55 10 * * 1,2,3,4,5 node index --restaurant=cestovatele --url="https://hooks.slack.com/services/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" 2>&1 >> index.log
+55 10 * * 1,2,3,4,5 node index --restaurant=padthai --url="https://hooks.slack.com/services/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" 2>&1 >> index.log
+55 10 * * 1,2,3,4,5 node index --restaurant=ocean --url="https://hooks.slack.com/services/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" 2>&1 >> index.log

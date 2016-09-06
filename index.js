@@ -147,5 +147,6 @@ request(url, function (error, response, html) {
         });
     } else {
         console.log(error);
+        
     }
 });
